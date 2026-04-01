@@ -6,7 +6,7 @@ This project solves that problem using Machine Learning & NLP to recommend movie
 ---
 
 ## 🚀 Live Demo
-
+👉 [Streamlit Live Demo](https://cinematch-nildn.streamlit.app/)
 
 ## 💻 GitHub Repository
 

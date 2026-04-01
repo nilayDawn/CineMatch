@@ -10,7 +10,7 @@ This project solves that problem using Machine Learning & NLP to recommend movie
 
 ## 💻 GitHub Repository
 
-👉 [CineMatch Demo](https://github.com/nilayDawn/CineMatch)
+👉 [CineMatch GitHub Repository](https://github.com/nilayDawn/CineMatch)
 
 
 ---

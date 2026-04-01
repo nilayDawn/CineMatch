@@ -114,15 +114,15 @@ streamlit run app.py
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="images/Screenshot%202026-04-01%20192447.png" alt="CineMatch Details View" width="80%">
+  <img src="./images/Screenshot%202026-04-01%20192447.png" alt="CineMatch Details View" width="80%" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot%202026-04-01%20192514.png" alt="CineMatch Home Grid" width="80%">
+  <img src="./images/Screenshot%202026-04-01%20192514.png" alt="CineMatch Home Grid" width="80%" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot%202026-04-01%20192617.png" alt="CineMatch Hero Section" width="80%">
+  <img src="./images/Screenshot%202026-04-01%20192617.png" alt="CineMatch Hero Section" width="80%" />
 </p>
 
 ---
